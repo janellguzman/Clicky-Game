@@ -2,50 +2,50 @@
 [
     {
         "id": 1,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup1.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup1.png"
 },
 {
         "id":2,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup2.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup2.png"
 },
 {
         "id":3,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup3.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup3.png"
 },
 {
         "id":4,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup4.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup4.png"
 },
 {
         "id":5,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup5.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup5.png"
 },
 {
         "id":6,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup6.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup6.png"
 },
 {
         "id":7,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup7.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup7.png"
 },
 {
         "id":8,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup8.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup8.png"
 },
 {
         "id":9,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup9.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup9.png"
 },
 {
         "id":10,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup10.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup10.png"
 },
 {
         "id":11,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup11.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup11.png"
 },
 {
         "id":12,
-        "url":"https://github.com/janellguzman/Clicky-Game/blob/master/public/assets/images/pup12.png"
+        "url":"https://raw.githubusercontent.com/janellguzman/Clicky-Game/master/public/assets/images/pup12.png"
 }
 ]
